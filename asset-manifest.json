@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/css/main.019bd6ba.css",
+    "main.js": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/js/main.7457f16a.js",
+    "static/js/787.420b3ad1.chunk.js": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/js/787.420b3ad1.chunk.js",
+    "index.html": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/index.html",
+    "main.019bd6ba.css.map": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/css/main.019bd6ba.css.map",
+    "main.7457f16a.js.map": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/js/main.7457f16a.js.map",
+    "787.420b3ad1.chunk.js.map": "/LGMVIP-Web-Task-1-todo-list/task_1_todo_list/static/js/787.420b3ad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019bd6ba.css",
+    "static/js/main.7457f16a.js"
+  ]
+}
