@@ -44,7 +44,7 @@ const App = () => {
     setTodos(updatedTodos);
   };
 
-  //delete todo btn working
+  //delete todo btn workingn
   const handleDeleteTodo = (index) => {
     const updatedTodos = [...todos];
     updatedTodos.splice(index, 1);

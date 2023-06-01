@@ -1,5 +1,4 @@
 # Todo List React App By Dharmvir
-
 this project can hold your todo list and you can delete them after getting things done.
 
 ### This App Uses local storage for storing todos
